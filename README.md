@@ -1,5 +1,3 @@
-I'll create a comprehensive README documentation for your Fawern-NN neural network library, based on your code and project structure.
-
 # Fawern-NN: Neural Network Library in Pure Python
 
 ![PyPI Version](https://img.shields.io/badge/pypi-v0.1.0-blue.svg)
